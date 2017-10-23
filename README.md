@@ -14,7 +14,7 @@ Time spent: 2 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
     - [ ] GIF Walkthrough: 
-    <iframe src="https://giphy.com/embed/3o7aCWIigNg4XGF0RO" width="480" height="253" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o7aCWIigNg4XGF0RO">via GIPHY</a></p>
+    <a href="https://imgflip.com/gif/1y4eol"><img src="https://i.imgflip.com/1y4eol.gif" title="made at imgflip.com"/></a>
     
     - [Link 1](http://klikki.fi/adv/wordpress2.html)
 1. Authenticated Stored Cross-Site Scripting 
@@ -23,7 +23,7 @@ Time spent: 2 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
     - [ ] GIF Walkthrough: 
-    ![alt text](https://github.com/dannyp65/CyberSecurity-CodePath_Week7_Lab/demo2.gif)
+    <a href="https://imgflip.com/gif/1y4esr"><img src="https://i.imgflip.com/1y4esr.gif" title="made at imgflip.com"/></a>
     - [Link 2](https://klikki.fi/adv/wordpress3.html)
 1. (Required) Large File Upload Error XSS
     - [ ] Summary: The attacker can inject a maliciuos script into the filname, WordPress didn't senitize the filename string, so when the victim upload the file the malicous script will be trigger.
@@ -31,7 +31,7 @@ Time spent: 2 hours spent in total
     - Tested in version:4.2
     - Fixed in version: 4.2.15
     - [ ] GIF Walkthrough: 
-    ![alt text](https://github.com/dannyp65/CyberSecurity-CodePath_Week7_Lab/demo3.gif)
+    <a href="https://imgflip.com/gif/1y4etx"><img src="https://i.imgflip.com/1y4etx.gif" title="made at imgflip.com"/></a>
     - [Link 3](https://hackerone.com/reports/203515)
 
 
