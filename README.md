@@ -7,30 +7,30 @@ Time spent: 2 hours spent in total
 ## Pentesting Report
 
 1. Unauthenticated Stored Cross-Site Scripting
-  - [ ] Summary: 
+    - [ ] Summary: 
         This vulnerability can be use by unauthenticate user through comment section of WordPress, the attacker inject Javascript code in the comment, the code will be trigger when the comment is viewed by Admin. 
         
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
-  
+    - [ ] GIF Walkthrough: 
+    ![alt text](https://github.com/dannyp65/CyberSecurity-CodePath_Week7_Lab/demo1.gif)
     - [Link 1](http://klikki.fi/adv/wordpress2.html)
 1. Authenticated Stored Cross-Site Scripting 
-  - [ ] Summary: The vulnerability allows a user with posting previlage to comprimise the website. The attacker can insert a  HTML containing Javascript into a post.
+    - [ ] Summary: The vulnerability allows a user with posting previlage to comprimise the website. The attacker can insert a  HTML containing Javascript into a post.
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: 
-
+    - [ ] GIF Walkthrough: 
+    ![alt text](https://github.com/dannyp65/CyberSecurity-CodePath_Week7_Lab/demo2.gif)
     - [Link 2](https://klikki.fi/adv/wordpress3.html)
 1. (Required) Large File Upload Error XSS
-  - [ ] Summary: The attacker can inject a maliciuos script into the filname, WordPress didn't senitize the filename string, so when the victim upload the file the malicous script will be trigger.
+    - [ ] Summary: The attacker can inject a maliciuos script into the filname, WordPress didn't senitize the filename string, so when the victim upload the file the malicous script will be trigger.
     - Vulnerability types: XSS
     - Tested in version:4.2
     - Fixed in version: 4.2.15
-  - [ ] GIF Walkthrough: 
-
+    - [ ] GIF Walkthrough: 
+    ![alt text](https://github.com/dannyp65/CyberSecurity-CodePath_Week7_Lab/demo3.gif)
     - [Link 3](https://hackerone.com/reports/203515)
 
 
