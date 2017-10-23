@@ -15,7 +15,7 @@ Time spent: 2 hours spent in total
     - Fixed in version: 4.2.1
     - [ ] GIF Walkthrough: 
    
-   [Imgur](https://i.imgur.com/aFbTizN.gifv)
+   <img src='https://imgur.com/aFbTizN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
     
     - [Link 1](http://klikki.fi/adv/wordpress2.html)
 1. Authenticated Stored Cross-Site Scripting 
