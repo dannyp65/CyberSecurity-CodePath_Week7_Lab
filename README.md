@@ -14,7 +14,8 @@ Time spent: 2 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
     - [ ] GIF Walkthrough: 
-    ![alt text](https://github.com/dannyp65/CyberSecurity-CodePath_Week7_Lab/demo1.gif)
+    <iframe src="https://giphy.com/embed/3o7aCWIigNg4XGF0RO" width="480" height="253" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o7aCWIigNg4XGF0RO">via GIPHY</a></p>
+    
     - [Link 1](http://klikki.fi/adv/wordpress2.html)
 1. Authenticated Stored Cross-Site Scripting 
     - [ ] Summary: The vulnerability allows a user with posting previlage to comprimise the website. The attacker can insert a  HTML containing Javascript into a post.
