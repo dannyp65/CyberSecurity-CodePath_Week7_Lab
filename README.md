@@ -24,7 +24,9 @@ Time spent: 2 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
     - [ ] GIF Walkthrough: 
-    <a href="https://imgflip.com/gif/1y4esr"><img src="https://i.imgflip.com/1y4esr.gif" title="made at imgflip.com"/></a>
+     <img src='https://i.imgur.com/nr2ZKi3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+    
+    
     - [Link 2](https://klikki.fi/adv/wordpress3.html)
 1. (Required) Large File Upload Error XSS
     - [ ] Summary: The attacker can inject a maliciuos script into the filname, WordPress didn't senitize the filename string, so when the victim upload the file the malicous script will be trigger.
@@ -32,7 +34,9 @@ Time spent: 2 hours spent in total
     - Tested in version:4.2
     - Fixed in version: 4.2.15
     - [ ] GIF Walkthrough: 
-    <a href="https://imgflip.com/gif/1y4etx"><img src="https://i.imgflip.com/1y4etx.gif" title="made at imgflip.com"/></a>
+    
+     <img src='https://i.imgur.com/WxQdEvo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+     
     - [Link 3](https://hackerone.com/reports/203515)
 
 
