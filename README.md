@@ -14,7 +14,8 @@ Time spent: 2 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
     - [ ] GIF Walkthrough: 
-    <a href="https://imgflip.com/gif/1y4eol"><img src="https://i.imgflip.com/1y4eol.gif" title="made at imgflip.com"/></a>
+   
+   [Imgur](https://i.imgur.com/aFbTizN.gifv)
     
     - [Link 1](http://klikki.fi/adv/wordpress2.html)
 1. Authenticated Stored Cross-Site Scripting 
